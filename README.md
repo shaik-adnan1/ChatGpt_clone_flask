@@ -34,7 +34,7 @@ This project is a ChatGPT clone built using Python, MongoDB, Flask, and Generati
 Once the server is running, navigate to `http://localhost:5000` in your web browser to interact with the ChatGPT clone. 
 
 ## Contact
-Provide your contact information or links to your social media for others to reach out for more information about the project.
+You can reach me at yousufwrk0@gmail.com
 
 ---
 Developed with ❤️ by [Your Name]
